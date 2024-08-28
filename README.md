@@ -23,3 +23,16 @@ A Multi-Layer Perceptron (MLP) is a type of artificial neural network with multi
 ### Structure
 #### Input Layer:
 - This layer consists of neurons that receive the features from the dataset directly. Each feature in the dataset corresponds to one neuron in the input layer. Thus, the number of neurons in this layer is equal to the number of features in the dataset.
+
+#### Hidden Layers:
+- These are layers situated between the input layer and the output layer. An MLP can have one or more hidden layers. The number of neurons in each hidden layer is a hyperparameter that can be chosen based on the complexity of the patterns in the data. These layers are crucial for detecting complex patterns.
+
+#### Output Layer:
+- This layer produces the final output or prediction based on the processed information from the hidden layers. The number of neurons in the output layer depends on the nature of the task:
+
+  + For binary classification, there is typically one neuron that outputs a probability score.
+  + For multi-class classification, there are as many neurons as there are classes, each producing a probability score for one class.
+  + For regression tasks, there is usually one neuron that outputs the predicted continuous value.
+
+
+
