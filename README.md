@@ -57,3 +57,6 @@ Hyperparameters such as learning rate and the number of iterations can be adjust
 
 #### Prediction:
 - Once trained, the MLP can make predictions on new, unseen data using the learned weights and biases through forward propagation.
+
+## RESULTS
+![mlp](https://github.com/user-attachments/assets/a3a08642-2169-4cd4-9000-ece2f449aa45)
