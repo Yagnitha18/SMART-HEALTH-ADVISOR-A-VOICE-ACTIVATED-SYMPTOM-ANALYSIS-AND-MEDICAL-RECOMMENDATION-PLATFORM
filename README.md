@@ -33,6 +33,3 @@ A Multi-Layer Perceptron (MLP) is a type of artificial neural network with multi
   + For binary classification, there is typically one neuron that outputs a probability score.
   + For multi-class classification, there are as many neurons as there are classes, each producing a probability score for one class.
   + For regression tasks, there is usually one neuron that outputs the predicted continuous value.
-
-
-
