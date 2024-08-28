@@ -10,9 +10,9 @@ Key Words: Multi-Layer Perceptron (MLP) classifier, Flask app, Web Speech API, s
 ## Objective
 
 - To develop a Flask-based web application for symptom-based disease prediction and medical recommendations.
-To integrate a voice recognition feature for symptom input, enhancing user accessibility.
-To implement a custom Multi-Layer Perceptron (MLP) classifier for accurate disease prediction based on user-reported symptoms.
-To provide users comprehensive information on predicted diseases, including descriptions, precautions, medications, dietary advice, and workout suggestions.
-To improve the overall user experience by making the system interactive and user-friendly.
+- To integrate a voice recognition feature for symptom input, enhancing user accessibility.
+- To implement a custom Multi-Layer Perceptron (MLP) classifier for accurate disease prediction based on user-reported symptoms.
+- To provide users comprehensive information on predicted diseases, including descriptions, precautions, medications, dietary advice, and workout suggestions.
+- To improve the overall user experience by making the system interactive and user-friendly.
 
 
