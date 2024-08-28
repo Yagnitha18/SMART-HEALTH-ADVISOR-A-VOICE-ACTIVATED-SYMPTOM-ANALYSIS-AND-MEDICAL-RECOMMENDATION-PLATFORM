@@ -44,11 +44,11 @@ A Multi-Layer Perceptron (MLP) is a type of artificial neural network with multi
 function to it, and passes the result to the next layer. Activation functions introduce non-linearity, allowing the model to learn complex relationships.
 
 #### Loss Calculation:
-The output of the network is compared to the actual target values to calculate the loss (error). Common loss functions include Mean Squared Error (MSE) for regression and 
+- The output of the network is compared to the actual target values to calculate the loss (error). Common loss functions include Mean Squared Error (MSE) for regression and 
 Cross-Entropy for classification.
 
 #### Backpropagation:
-To minimize the loss, the network adjusts its weights and biases. The backpropagation algorithm computes the gradients of the loss concerning each parameter in the network. 
+- To minimize the loss, the network adjusts its weights and biases. The backpropagation algorithm computes the gradients of the loss concerning each parameter in the network. 
 These gradients are used to update the weights and biases through optimization methods like Gradient Descent.
 
 #### Training:
@@ -56,4 +56,4 @@ These gradients are used to update the weights and biases through optimization m
 Hyperparameters such as learning rate and the number of iterations can be adjusted.
 
 #### Prediction:
-Once trained, the MLP can make predictions on new, unseen data using the learned weights and biases through forward propagation.
+- Once trained, the MLP can make predictions on new, unseen data using the learned weights and biases through forward propagation.
