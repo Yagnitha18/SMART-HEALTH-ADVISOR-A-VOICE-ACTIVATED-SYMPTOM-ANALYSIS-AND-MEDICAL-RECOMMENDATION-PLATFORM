@@ -16,3 +16,10 @@ Key Words: Multi-Layer Perceptron (MLP) classifier, Flask app, Web Speech API, s
 - To improve the overall user experience by making the system interactive and user-friendly.
 
 
+## MLP Architecture
+
+A Multi-Layer Perceptron (MLP) is a type of artificial neural network with multiple layers of interconnected nodes (neurons) that is widely used for various machine-learning tasks like classification and regression. Here's a breakdown of the MLP's structure and functioning:
+
+### Structure
+#### Input Layer:
+- This layer consists of neurons that receive the features from the dataset directly. Each feature in the dataset corresponds to one neuron in the input layer. Thus, the number of neurons in this layer is equal to the number of features in the dataset.
