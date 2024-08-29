@@ -60,8 +60,12 @@ Hyperparameters such as learning rate and the number of iterations can be adjust
 
 ## RESULTS
 
-| Model  | Accuracy | Precision | Recall | F1-Score |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 |
+|----------|----------|----------|----------|----------|
+| SVC    | Data 1   | Data 2   | Data 3   | Data 4   |
+| Random Forest    | Data 1   | Data 2   | Data 3   | Data 4   |
+| Gradient Boosting    | Data 1   | Data 2   | Data 3   | Data 4   |
+| MLP classifier    | Data 1   | Data 2   | Data 3   | Data 4   |
+| K Neighbors    | Data 1   | Data 2   | Data 3   | Data 4   |
+
 
